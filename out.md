@@ -1,6 +1,6 @@
 # Introduction to Building Information Modeling and Digitalization
 
-![](img%5CiBIMD_Course_202307010.png)
+![](img/iBIMD_Course_202307010.png)
 
 # The project
 
@@ -18,13 +18,13 @@ __Politehnica__  __ University Timisoara\, Romania__
 
 Is a major provider of High Quality Education and Innovation in the region and on the whole Romanian and European level\, proved by all high\-level certifications\, by the quality of students and alumni\.
 
-![](img%5CiBIMD_Course_202307012.png)
+![](img/iBIMD_Course_202307012.png)
 
 __Bauhaus University Weimar\, Germany__
 
 Is internationally renowned for its research activities and outstanding scientific achievements\, with a strong focus in digital engineering \(modeling\, simulation and visualization\)\, based on constructive civil engineering designs\.
 
-![](img%5CiBIMD_Course_202307013.png)
+![](img/iBIMD_Course_202307013.png)
 
 __University of Naples Federico II\, Italy__
 
@@ -32,9 +32,9 @@ Has more than 300 international agreements with prestigious Universities all aro
 
 research and collaboration\, while maintaining excellence in all the fields of education and research\.
 
-![](img%5CiBIMD_Course_202307014.png)
+![](img/iBIMD_Course_202307014.png)
 
-![](img%5CiBIMD_Course_202307015.png)
+![](img/iBIMD_Course_202307015.png)
 
 __University of Coimbra\, Portugal__
 
@@ -46,7 +46,7 @@ Is proactively developing decision basis and technology in support of
 
 sustainable developments\. With BIM integrated into several courses\, it promotes data exchange through open formats and has actively participated in developing industry and official standards\.
 
-![](img%5CiBIMD_Course_202307016.png)
+![](img/iBIMD_Course_202307016.png)
 
 The consortium
 
@@ -172,7 +172,7 @@ __CHAPTER 04 \-  BIM Execution Plan__
 
 # Course expectations
 
-![](img%5CiBIMD_Course_202307017.png)
+![](img/iBIMD_Course_202307017.png)
 
 <span style="color:#000000"> __Welcome\! This course will begin\.__ </span>
 
@@ -203,7 +203,7 @@ Furthermore, the chapter will cover the various guidelines and applications of B
 
 Building Information Modelling \(BIM\) is a digital process that encompasses creating and managing a building's information throughout its entire lifecycle\, enabling multiple stakeholders to collaboratively design\, construct and operate a Facility in a virtual space\.
 
-![](img%5CiBIMD_Course_202307018.jpg)
+![](img/iBIMD_Course_202307018.jpg)
 
 ---
 
@@ -221,13 +221,13 @@ In summary, BIM is a digital approach to building design, construction, and oper
 
 The term BIM has evolved over time and is now best understood as an "expression of digital innovation" across the construction industry and the built environment.
 
-![](img%5CiBIMD_Course_202307019.png)
+![](img/iBIMD_Course_202307019.png)
 
-![](img%5CiBIMD_Course_2023070110.png)
+![](img/iBIMD_Course_2023070110.png)
 
-![](img%5CiBIMD_Course_2023070111.png)
+![](img/iBIMD_Course_2023070111.png)
 
-![](img%5CiBIMD_Course_2023070112.png)
+![](img/iBIMD_Course_2023070112.png)
 
 # Collaborative Process
 
@@ -235,33 +235,33 @@ The traditional methodology used in the project development process
 
 Sequenced process:
 
-![](img%5CiBIMD_Course_2023070113.png)
+![](img/iBIMD_Course_2023070113.png)
 
-![](img%5CiBIMD_Course_2023070114.png)
+![](img/iBIMD_Course_2023070114.png)
 
-![](img%5CiBIMD_Course_2023070115.png)
+![](img/iBIMD_Course_2023070115.png)
 
-![](img%5CiBIMD_Course_2023070116.png)
+![](img/iBIMD_Course_2023070116.png)
 
-![](img%5CiBIMD_Course_2023070117.png)
+![](img/iBIMD_Course_2023070117.png)
 
-![](img%5CiBIMD_Course_2023070118.png)
+![](img/iBIMD_Course_2023070118.png)
 
-![](img%5CiBIMD_Course_2023070119.png)
+![](img/iBIMD_Course_2023070119.png)
 
-![](img%5CiBIMD_Course_2023070120.png)
+![](img/iBIMD_Course_2023070120.png)
 
-![](img%5CiBIMD_Course_2023070121.png)
+![](img/iBIMD_Course_2023070121.png)
 
-![](img%5CiBIMD_Course_2023070122.png)
+![](img/iBIMD_Course_2023070122.png)
 
-![](img%5CiBIMD_Course_2023070123.png)
+![](img/iBIMD_Course_2023070123.png)
 
-![](img%5CiBIMD_Course_2023070124.png)
+![](img/iBIMD_Course_2023070124.png)
 
-![](img%5CiBIMD_Course_2023070125.png)
+![](img/iBIMD_Course_2023070125.png)
 
-![](img%5CiBIMD_Course_2023070126.png)
+![](img/iBIMD_Course_2023070126.png)
 
 ---
 
@@ -271,9 +271,9 @@ The collaborative project management process takes place through the conclusion 
 
 # Collaborative Process (traditional methodology)
 
-![](img%5CiBIMD_Course_2023070127.png)
+![](img/iBIMD_Course_2023070127.png)
 
-![](img%5CiBIMD_Course_2023070128.png)
+![](img/iBIMD_Course_2023070128.png)
 
 ---
 
@@ -283,23 +283,23 @@ The traditional collaborative process can result in construction errors, such as
 
 Integrated process
 
-![](img%5CiBIMD_Course_2023070129.png)
+![](img/iBIMD_Course_2023070129.png)
 
-![](img%5CiBIMD_Course_2023070130.png)
+![](img/iBIMD_Course_2023070130.png)
 
-![](img%5CiBIMD_Course_2023070131.png)
+![](img/iBIMD_Course_2023070131.png)
 
-![](img%5CiBIMD_Course_2023070132.png)
+![](img/iBIMD_Course_2023070132.png)
 
-![](img%5CiBIMD_Course_2023070133.png)
+![](img/iBIMD_Course_2023070133.png)
 
-![](img%5CiBIMD_Course_2023070134.png)
+![](img/iBIMD_Course_2023070134.png)
 
-![](img%5CiBIMD_Course_2023070135.png)
+![](img/iBIMD_Course_2023070135.png)
 
-![](img%5CiBIMD_Course_2023070136.png)
+![](img/iBIMD_Course_2023070136.png)
 
-![](img%5CiBIMD_Course_2023070137.png)
+![](img/iBIMD_Course_2023070137.png)
 
 ---
 
@@ -374,9 +374,9 @@ Integrated database manager;
 
 Interoperability\.
 
-![](img%5CiBIMD_Course_2023070138.jpg)
+![](img/iBIMD_Course_2023070138.jpg)
 
-![](img%5CiBIMD_Course_2023070139.png)
+![](img/iBIMD_Course_2023070139.png)
 
 Building Information Modeling
 
@@ -388,41 +388,41 @@ BIM adoption requires a holistic approach that encompasses people, processes, an
 
 # CAD plans vs. BIM plans
 
-![](img%5CiBIMD_Course_2023070140.png)
+![](img/iBIMD_Course_2023070140.png)
 
-![](img%5CiBIMD_Course_2023070141.png)
+![](img/iBIMD_Course_2023070141.png)
 
-![](img%5CiBIMD_Course_2023070142.png)
+![](img/iBIMD_Course_2023070142.png)
 
-![](img%5CiBIMD_Course_2023070143.png)
+![](img/iBIMD_Course_2023070143.png)
 
-![](img%5CiBIMD_Course_2023070144.png)
+![](img/iBIMD_Course_2023070144.png)
 
-![](img%5CiBIMD_Course_2023070145.png)
+![](img/iBIMD_Course_2023070145.png)
 
-![](img%5CiBIMD_Course_2023070146.png)
+![](img/iBIMD_Course_2023070146.png)
 
-![](img%5CiBIMD_Course_2023070147.png)
+![](img/iBIMD_Course_2023070147.png)
 
-![](img%5CiBIMD_Course_2023070148.png)
+![](img/iBIMD_Course_2023070148.png)
 
-![](img%5CiBIMD_Course_2023070149.png)
+![](img/iBIMD_Course_2023070149.png)
 
-![](img%5CiBIMD_Course_2023070150.png)
+![](img/iBIMD_Course_2023070150.png)
 
-![](img%5CiBIMD_Course_2023070151.png)
+![](img/iBIMD_Course_2023070151.png)
 
-![](img%5CiBIMD_Course_2023070152.png)
+![](img/iBIMD_Course_2023070152.png)
 
-![](img%5CiBIMD_Course_2023070153.png)
+![](img/iBIMD_Course_2023070153.png)
 
 Optimal design and Coordination of changes
 
-![](img%5CiBIMD_Course_2023070154.jpg)
+![](img/iBIMD_Course_2023070154.jpg)
 
-![](img%5CiBIMD_Course_2023070155.png)
+![](img/iBIMD_Course_2023070155.png)
 
-![](img%5CiBIMD_Course_2023070156.png)
+![](img/iBIMD_Course_2023070156.png)
 
 ---
 
@@ -430,7 +430,7 @@ Optimal design and Coordination of changes
 
 # BIM DIMENSIONS
 
-![](img%5CiBIMD_Course_2023070157.jpg)
+![](img/iBIMD_Course_2023070157.jpg)
 
 __3D \- Model__
 
@@ -465,7 +465,7 @@ An expanded 3D model with the necessary information for the management and opera
 
 # Concepts
 
-![](img%5CiBIMD_Course_2023070158.png)
+![](img/iBIMD_Course_2023070158.png)
 
 ---
 
@@ -492,7 +492,7 @@ __Virtual Design and Construction \(VDC\)__
 
 The VDC is the integrated multidisciplinary management of work processes and team organization that adopts BIM as the foundation to achieve the goals of the project\.
 
-![](img%5CiBIMD_Course_2023070159.jpg)
+![](img/iBIMD_Course_2023070159.jpg)
 
 ---
 
@@ -509,7 +509,7 @@ Indicates the non\-graphical content in the BIM model at every stage of its deve
 
 _LoD_  _ \+ _  _LoI_  _ = Level of Development \(LOD\)_
 
-![](img%5CiBIMD_Course_2023070160.jpg)
+![](img/iBIMD_Course_2023070160.jpg)
 
 __Level of Development \(LOD\)__
 
@@ -521,7 +521,7 @@ __LOD 100__
 
 Objects represented by symbols or simplified 3D\, without indication of real physical geometry\.
 
-![](img%5CiBIMD_Course_2023070161.png)
+![](img/iBIMD_Course_2023070161.png)
 
 __LOD 100                LOD 200               LOD 300                   LOD 400                          LOD 500__
 
@@ -550,7 +550,7 @@ __LOD 200__
 
 Objects graphically represented as a generic system\. A simple representation of the real structure of the object\.
 
-![](img%5CiBIMD_Course_2023070162.png)
+![](img/iBIMD_Course_2023070162.png)
 
 __LOD 100                LOD 200               LOD 300                   LOD 400                          LOD 500__
 
@@ -581,7 +581,7 @@ __LOD 300/350__
 
 Objects are graphed more accurately in terms of quantity\, size\, shape\, location\, and orientation
 
-![](img%5CiBIMD_Course_2023070163.png)
+![](img/iBIMD_Course_2023070163.png)
 
 __LOD 100                LOD 200               LOD 300                   LOD 400                          LOD 500__
 
@@ -617,7 +617,7 @@ __LOD 400__
 
 Objects represented in terms of size\, shape\, location\, quantity and orientation\, with details\, fabrication\, assembly and installation information
 
-![](img%5CiBIMD_Course_2023070164.png)
+![](img/iBIMD_Course_2023070164.png)
 
 __LOD 100                LOD 200               LOD 300                   LOD 400                          LOD 500__
 
@@ -653,7 +653,7 @@ __LOD 500__
 
 Corresponds to the As\-Built Modelling
 
-![](img%5CiBIMD_Course_2023070165.png)
+![](img/iBIMD_Course_2023070165.png)
 
 __LOD 100                LOD 200               LOD 300                   LOD 400                          LOD 500__
 
@@ -671,15 +671,15 @@ Updated with the actual amounts spent during construction.
 Analysis:
 Updated element assists in the management of facilities for the constructed building.
 
-![](img%5CiBIMD_Course_2023070166.png)
+![](img/iBIMD_Course_2023070166.png)
 
-![](img%5CiBIMD_Course_2023070167.png)
+![](img/iBIMD_Course_2023070167.png)
 
-![](img%5CiBIMD_Course_2023070168.png)
+![](img/iBIMD_Course_2023070168.png)
 
-![](img%5CiBIMD_Course_2023070169.png)
+![](img/iBIMD_Course_2023070169.png)
 
-![](img%5CiBIMD_Course_2023070170.png)
+![](img/iBIMD_Course_2023070170.png)
 
 Level of Development \(LOD\)
 
@@ -871,7 +871,7 @@ The choice between an Integrated Model and a Federated Model depends on the spec
 
 # BIM adoption around the World
 
-![](img%5CiBIMD_Course_2023070171.png)
+![](img/iBIMD_Course_2023070171.png)
 
 __BIM adoption around the World__
 
@@ -883,7 +883,7 @@ BIM has been steadily increasing around the world, with many countries recognizi
 BIM is being used in various sectors, including commercial, residential, infrastructure, and healthcare, and is increasingly being mandated for public projects in many countries. As technology continues to evolve, it is expected that BIM adoption will continue to increase globally, leading to more streamlined and sustainable construction processes.
 
 
-![](img%5CiBIMD_Course_2023070172.png)
+![](img/iBIMD_Course_2023070172.png)
 
 # BIM adoption in Europe
 
@@ -901,7 +901,7 @@ The adoption of BIM in EU Member States is also influenced by the existing legis
 
 Portugal and Belgium, currently do not have a state-level BIM mandate in place. However, this does not necessarily imply low BIM adoption, as there may be regional or urban-level mandates or other factors at play.
 
-![](img%5CiBIMD_Course_2023070173.png)
+![](img/iBIMD_Course_2023070173.png)
 
 Map of BIM requirements in public procurement in the EU\-27 Source:
 
@@ -927,11 +927,11 @@ Infrastructure projects carried out for the national government and procurement
 
 Since 2023\, is compulsory in buildings constructed for the national government\.
 
-![](img%5CiBIMD_Course_2023070174.jpg)
+![](img/iBIMD_Course_2023070174.jpg)
 
 __BIM adoption around the World__
 
-![](img%5CiBIMD_Course_2023070175.jpg)
+![](img/iBIMD_Course_2023070175.jpg)
 
 ---
 
@@ -955,13 +955,13 @@ __ROMANIA__
 
 Since 2022 started a BIM plan for implementation in 2028\.
 
-![](img%5CiBIMD_Course_2023070176.jpg)
+![](img/iBIMD_Course_2023070176.jpg)
 
 __BIM adoption around the World__
 
-![](img%5CiBIMD_Course_2023070177.jpg)
+![](img/iBIMD_Course_2023070177.jpg)
 
-![](img%5CiBIMD_Course_2023070178.png)
+![](img/iBIMD_Course_2023070178.png)
 
 ---
 
@@ -1001,7 +1001,7 @@ C\.3\. Templates and Tools
 
 C\.4\. Best Practice Guides
 
-![](img%5CiBIMD_Course_2023070179.png)
+![](img/iBIMD_Course_2023070179.png)
 
 __Standards\, Technical Specifications and Guides__
 
@@ -1018,15 +1018,15 @@ Guidelines and Applications: are recommendations or instructions.
 
 __ISO/TC 59/SC 13 __
 
-![](img%5CiBIMD_Course_2023070180.png)
+![](img/iBIMD_Course_2023070180.png)
 
-![](img%5CiBIMD_Course_2023070181.jpg)
+![](img/iBIMD_Course_2023070181.jpg)
 
-![](img%5CiBIMD_Course_2023070182.jpg)
+![](img/iBIMD_Course_2023070182.jpg)
 
 __Standards\, Technical Specifications and Guides__
 
-![](img%5CiBIMD_Course_2023070183.png)
+![](img/iBIMD_Course_2023070183.png)
 
 Source: NBIMS\-US\, 2021
 
@@ -1468,9 +1468,9 @@ The objective of the classification system is to be a way to organize\, classify
 
 __Technical Specifications and Guidelines__
 
-![](img%5CiBIMD_Course_2023070184.png)
+![](img/iBIMD_Course_2023070184.png)
 
-![](img%5CiBIMD_Course_2023070185.jpg)
+![](img/iBIMD_Course_2023070185.jpg)
 
 ---
 
@@ -1640,7 +1640,7 @@ BIM Consultant;
 
 BIM Applications Support Engineer\.
 
-![](img%5CiBIMD_Course_2023070186.png)
+![](img/iBIMD_Course_2023070186.png)
 
 ---
 
@@ -1675,7 +1675,7 @@ Renovation and As\-Built Projects\,
 
 Integration with GIS\.
 
-![](img%5CiBIMD_Course_2023070187.jpg)
+![](img/iBIMD_Course_2023070187.jpg)
 
 ---
 
@@ -1765,7 +1765,7 @@ Digital fabricator
 
 BIM Trainer
 
-![](img%5CiBIMD_Course_2023070188.png)
+![](img/iBIMD_Course_2023070188.png)
 
 ---
 
@@ -1779,7 +1779,7 @@ BIM Trainer: The BIM Trainer is in charge of educating employees and stakeholder
 
 # BIM Manager
 
-![](img%5CiBIMD_Course_2023070189.png)
+![](img/iBIMD_Course_2023070189.png)
 
 ---
 
@@ -1797,7 +1797,7 @@ The function of a BIM manager is expanding as BIM technology is increasingly bei
 
 # BIM Coordinator
 
-![](img%5CiBIMD_Course_2023070190.png)
+![](img/iBIMD_Course_2023070190.png)
 
 BIM Manager
 
@@ -1819,7 +1819,7 @@ A BIM coordinator needs to be well-versed in BIM technology, software, and workf
 
 # BIM Modeler
 
-![](img%5CiBIMD_Course_2023070191.png)
+![](img/iBIMD_Course_2023070191.png)
 
 BIM Manager
 
@@ -1841,7 +1841,7 @@ Overall, the role of a BIM modeler is critical to the success of BIM projects in
 
 # VDC Expert
 
-![](img%5CiBIMD_Course_2023070192.png)
+![](img/iBIMD_Course_2023070192.png)
 
 BIM Manager
 
@@ -1865,7 +1865,7 @@ Ultimately, a BIM VDC Manager's function is essential to the accomplishment of B
 
 # Sustainability Specialist
 
-![](img%5CiBIMD_Course_2023070193.png)
+![](img/iBIMD_Course_2023070193.png)
 
 BIM Manager
 
@@ -1892,7 +1892,7 @@ Overall, the role of a BIM Sustainability Specialist is critical to the success 
 
 # Digital fabricator
 
-![](img%5CiBIMD_Course_2023070194.png)
+![](img/iBIMD_Course_2023070194.png)
 
 BIM Manager
 
@@ -1920,7 +1920,7 @@ All things considered, the BIM Digital Fabrication Specialist is essential to ma
 
 # BIM Trainer
 
-![](img%5CiBIMD_Course_2023070195.png)
+![](img/iBIMD_Course_2023070195.png)
 
 BIM Manager
 
@@ -1954,7 +1954,7 @@ Overall, the BIM Trainer is vital to encouraging the AEC sector to use BIM tools
 
 # Construction Manager
 
-![](img%5CiBIMD_Course_2023070196.png)
+![](img/iBIMD_Course_2023070196.png)
 
 BIM Manager
 
@@ -1986,7 +1986,7 @@ The Construction Manager also uses the BIM model to track and record constructio
 
 # Quality Control Manager
 
-![](img%5CiBIMD_Course_2023070197.png)
+![](img/iBIMD_Course_2023070197.png)
 
 BIM Manager
 
@@ -2022,7 +2022,7 @@ The Quality Control Manager also uses the BIM model to track and record quality 
 
 # Client Representative
 
-![](img%5CiBIMD_Course_2023070198.png)
+![](img/iBIMD_Course_2023070198.png)
 
 BIM Manager
 
@@ -2056,7 +2056,7 @@ The client representative is also responsible for ensuring that the building is 
 
 # Information Manager
 
-![](img%5CiBIMD_Course_2023070199.png)
+![](img/iBIMD_Course_2023070199.png)
 
 BIM Manager
 
@@ -2094,7 +2094,7 @@ One of the key advantages of BIM is that it allows facility managers to access a
 
 # Maintenance Planner
 
-![](img%5CiBIMD_Course_20230701100.png)
+![](img/iBIMD_Course_20230701100.png)
 
 BIM Manager
 
@@ -2134,7 +2134,7 @@ The Maintenance Planner also uses the BIM model to track and record maintenance 
 
 # Asset Manager
 
-![](img%5CiBIMD_Course_20230701101.png)
+![](img/iBIMD_Course_20230701101.png)
 
 BIM Manager
 
@@ -2176,7 +2176,7 @@ The Asset Manager also uses the BIM model to track and record asset maintenance 
 
 # Safety and Security Manager
 
-![](img%5CiBIMD_Course_20230701102.png)
+![](img/iBIMD_Course_20230701102.png)
 
 BIM Manager
 
@@ -2220,7 +2220,7 @@ The Safety and Security Manager also uses the BIM model to track and record safe
 
 # BIM use cases
 
-![](img%5CiBIMD_Course_20230701103.png)
+![](img/iBIMD_Course_20230701103.png)
 
 <span style="color:#000000">18 Cases </span>  <span style="color:#000000">​</span>
 
@@ -2246,7 +2246,7 @@ According to buildingSmart, each Use Case has to follow a clear objective and to
 
 In this chapter, we will examine different BIM use cases that illustrate the benefits of BIM across different phases of a project, including design, construction, and facility management. We will also explore how BIM can help to improve project efficiency, reduce errors and rework, and enhance communication and collaboration among project stakeholders. By understanding these use cases, we can appreciate the versatility of BIM and how it is driving efficiency, reducing costs, and improving outcomes in construction projects.
 
-![](img%5CiBIMD_Course_20230701104.png)
+![](img/iBIMD_Course_20230701104.png)
 
 __1: Design Authoring__
 
@@ -2273,7 +2273,7 @@ Design Reviews shall also be used as part of the identified shared review and ap
 
 # 3: Drawing Generation
 
-![](img%5CiBIMD_Course_20230701105.png)
+![](img/iBIMD_Course_20230701105.png)
 
 Process of using BIM to produce 2D drawings
 
@@ -2290,7 +2290,7 @@ A registration list showing the relationship between the Information Models and 
 
 # 4: Existing Conditions Modelling
 
-![](img%5CiBIMD_Course_20230701106.png)
+![](img/iBIMD_Course_20230701106.png)
 
 Creating a 3D model of the existing site conditions
 
@@ -2304,7 +2304,7 @@ In the construction stage, 3D digital survey technology such as laser scanning s
 
 # BIM use cases
 
-![](img%5CiBIMD_Course_20230701107.png)
+![](img/iBIMD_Course_20230701107.png)
 
 __5: Sustainability Evaluation__
 
@@ -2330,7 +2330,7 @@ BIM Use 6: Cost EstimationCost Estimation / 5D modelling is a process in which 
 Quantity take-off and cost estimating In the design stage, the Information Models can generate more accurate quantities for project cost budgeting, project cost control and cost evaluation on design options, etc. as far as practicable. In the tender stage, the Information Models can be used for extracting quantities in the preparation of pricing documents [and the Information Models shall form part of tender information to indicate the design intent layout and the material quantities for the tenderers’ information]. 
 5D modelling / cash flow forecasting In the construction stage, the Information Models can be used for extracting quantities for project cost control, cost evaluation on the variation of works, cash flow forecast, spending analysis, interim payment, etc. as far as practicable. The 5D Model shall be adopted in the regular project progress meeting to indicate and compare the current cash flow status with the baseline forecast to facilitate project management.
 
-![](img%5CiBIMD_Course_20230701108.png)
+![](img/iBIMD_Course_20230701108.png)
 
 __7: Spatial Coordination __
 
@@ -2350,7 +2350,7 @@ To rebuild / update Information Models;
 To identify coordinated models for sharing as suitable for coordination, submission and approval; and 
 To document changes, revision history and approved copies.
 
-![](img%5CiBIMD_Course_20230701109.png)
+![](img/iBIMD_Course_20230701109.png)
 
 __8: Engineering Analysis__
 
@@ -2380,7 +2380,7 @@ Fire EngineeringWhere fire engineering is adopted, the BIM design authoring mod
 Civil EngineeringFor civil engineering works, the models can be analysed for site formation (cut & fill) hydraulic design of water supply, waste treatment, sewerage and storm water drainage systems. 
 Other EngineeringAnalysis Other engineering analysis may include thermal, mechanical, acoustic, environmental noise, plumbing, drainage, people movement analysis, risk analysis, etc. The model can be used to predict the performance of a system which should then be compared to actual performance data such as commissioning results.
 
-![](img%5CiBIMD_Course_20230701110.png)
+![](img/iBIMD_Course_20230701110.png)
 
 __9: Facility Energy Analysis __
 
@@ -2391,7 +2391,7 @@ Building energy simulation program with a model to conduct energy assessments
 BIM Use 9: Facility Energy Analysis 
 Facility Energy Analysis is a process of using a building energy simulation programme with a model to conduct energy assessments of a project design to optimise the design to reduce energy cost hence life cycle costs. By checking the building energy standard compatibility and conducting energy assessment using Building Energy Simulation and Analysis Software, the energy model shall be delivered and the predicted energy uses can be specified. The results of facility energy analysis can facilitate the energy benchmarking.
 
-![](img%5CiBIMD_Course_20230701111.png)
+![](img/iBIMD_Course_20230701111.png)
 
 __10: Building Code Checking and Validation __
 
@@ -2406,7 +2406,7 @@ Currently BIM is submitted as supplementary information for reference only; the 
 
 Reference shall also be made to Statutory Submission under Drawing Generation (Drawing Production).
 
-![](img%5CiBIMD_Course_20230701112.png)
+![](img/iBIMD_Course_20230701112.png)
 
 __11: Phase Planning \(4D Modelling\)__
 
@@ -2421,7 +2421,7 @@ In the design stage, Phase Planning (4D Modelling) shall include construction se
 
 The 4D simulations can also include the demonstration of the sequence of construction of the prefabricated, MiC* and DfMA* elements / units from fabrication, transportation to installation on site. The swept path analysis from the port (marine transport) or factory (land transport) to the site of the above elements / units is also required.
 
-![](img%5CiBIMD_Course_20230701113.png)
+![](img/iBIMD_Course_20230701113.png)
 
 __12: Digital Fabrication__
 
@@ -2434,7 +2434,7 @@ Digital Fabrication is a process for digitalizing the construction details in th
 
 As far as practicable, the Information Models may be able to transfer directly to the Computer Numerical Control (CNC) machines for fabrication and manufacturing. The Information Models can also be used for prototyping with 3D printers as part of a design intent review process. 
 
-![](img%5CiBIMD_Course_20230701114.png)
+![](img/iBIMD_Course_20230701114.png)
 
 __13: 3D Control and Planning__
 
@@ -2455,7 +2455,7 @@ BIM Use 13: 3D Control and Planning
 BIM Use 14: 3D Construction Coordination
 3D Construction Coordination is a process of further coordinating the federated Information Models from design stage to construction stage. Designers, consultants, main contractors, sub-contractors and suppliers shall be involved in this coordination. The goal of the coordination process is to eliminate design errors before construction of the project and enhance the efficiency and constructability of the Information Models. Practical system layout arrangement due to site condition, limitation / details of the component purchased from suppliers and coordination between discipline sub-contractors shall be taken into considerations.
 
-![](img%5CiBIMD_Course_20230701115.png)
+![](img/iBIMD_Course_20230701115.png)
 
 __15: Maintenance Scheduling__
 
@@ -2467,7 +2467,7 @@ BIM Use 15: Maintenance Scheduling
 Maintenance Scheduling is a process in which the functionality of the building structure (walls, floors, roof etc) and equipment serving the building (mechanical, electrical, plumbing etc) are maintained over the operational life of a facility. A successful maintenance program will improve building performance, reduce repairs, and reduce overall maintenance costs. 
 It shall be adopted in construction stage in collecting and providing maintenance attributes, such as maintenance cost, expected lifetime, mean time between failure, warranty start/end day, maintenance parties, etc., for facility structures, fabrics and equipment in the ABIM as considered appropriate. Record model shall be provided for tracking maintenance history
 
-![](img%5CiBIMD_Course_20230701116.png)
+![](img/iBIMD_Course_20230701116.png)
 
 __16: 3D Control and Planning__
 
@@ -2480,7 +2480,7 @@ Space Management and Tracking is a process in which BIM is utilised to effective
 
 The ABIM can be used to assess, manage and track spaces and associated resources within a project. A BIM can be integrated with spatial tracking software to analyse the existing use of space, apply transition planning for renovations and refurbishment projects.
 
-![](img%5CiBIMD_Course_20230701117.png)
+![](img/iBIMD_Course_20230701117.png)
 
 __17: Sales and Marketing__
 
@@ -2507,7 +2507,7 @@ embed building products in context of building spaces;
 embed project in accurate geolocation positioning for visualisation and analysis; and 
 as marketing gadget by offering the buyer the BIM unit with relevant provisions they purchased or rented, subsequent modification can be clearly managed e.g.: would not nail a picture at the position where a concealed conduit or water pipe is embedded in the wall.
 
-![](img%5CiBIMD_Course_20230701118.png)
+![](img/iBIMD_Course_20230701118.png)
 
 __18: Heritage Information Modelling \(HIM\) __
 
@@ -2530,7 +2530,7 @@ Identify clashes between\, overlapping or duplicating building elements\.
 
 Tolerance can often be adjusted to the type of clashes between building elements\, e\.g\.\, walls\, pipes\, or ducts\.
 
-![](img%5CiBIMD_Course_20230701119.png)
+![](img/iBIMD_Course_20230701119.png)
 
 __Understand: S__  __imple__  __ BIM use case__
 
@@ -2544,7 +2544,7 @@ In this case\, the model has to be positioned perfectly\, including information 
 
 The advantage of BIM\-based building permits is enormous since they can be automated\, comprehensive\, checked continuously\, and without human intervention\.
 
-![](img%5CiBIMD_Course_20230701120.png)
+![](img/iBIMD_Course_20230701120.png)
 
 __Understand: Complex __  __BIM use case__
 
@@ -2575,7 +2575,7 @@ Proprietary format
 
 __Understand: __  __BIM Formats__
 
-![](img%5CiBIMD_Course_20230701121.png)
+![](img/iBIMD_Course_20230701121.png)
 
 In both cases check if your tools support the exchange format
 
@@ -2587,17 +2587,17 @@ In both cases check if your tools support the exchange format
   * Objects\, including types and properties
   * Objects\, including  standardized  types and  properties
 
-![](img%5CiBIMD_Course_20230701122.png)
+![](img/iBIMD_Course_20230701122.png)
 
-![](img%5CiBIMD_Course_20230701123.png)
+![](img/iBIMD_Course_20230701123.png)
 
 CCI AD\, SfB 21 etc\.
 
 __Understand: __  __Modelling__  __ Approach__
 
-![](img%5CiBIMD_Course_20230701124.png)
+![](img/iBIMD_Course_20230701124.png)
 
-![](img%5CiBIMD_Course_20230701125.png)
+![](img/iBIMD_Course_20230701125.png)
 
 __Wall__
 
@@ -2735,7 +2735,7 @@ Create an atmosphere of sharing
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701126.png)
+![](img/iBIMD_Course_20230701126.png)
 
 Level 3: Internal BIM process
 
@@ -2764,7 +2764,7 @@ __BIM Use Cases based on 3D geometry__
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701127.png)
+![](img/iBIMD_Course_20230701127.png)
 
 Wall
 
@@ -2799,7 +2799,7 @@ __BIM Use Cases based on objects\, including types or classification__
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701128.png)
+![](img/iBIMD_Course_20230701128.png)
 
 __Wall__
 
@@ -2840,7 +2840,7 @@ __BIM Use Cases based on objects\, including types or properties__
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701129.png)
+![](img/iBIMD_Course_20230701129.png)
 
 __Wall__
 
@@ -2881,7 +2881,7 @@ __BIM Use Cases based on objects\, including types or properties__
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701130.png)
+![](img/iBIMD_Course_20230701130.png)
 
 __Wall__
 
@@ -2921,7 +2921,7 @@ __BIM Use Cases based on objects\, including types or properties__
 
 __Required minimum BIM level__
 
-![](img%5CiBIMD_Course_20230701131.png)
+![](img/iBIMD_Course_20230701131.png)
 
 __Wall__
 
@@ -2975,7 +2975,7 @@ _"The award is a great opportunity to show the world what is already possible wi
 
 Marc Wenner\, MKP GmbH
 
-![](img%5CiBIMD_Course_20230701132.png)
+![](img/iBIMD_Course_20230701132.png)
 
 Source: buildingSMART\, 2021
 
@@ -2989,7 +2989,7 @@ _"_  _openBIM_  _ is not about technology\. At its core it is about giving and s
 
 Dawid Fedko\, Mostostal Warszawa S\.A
 
-![](img%5CiBIMD_Course_20230701133.png)
+![](img/iBIMD_Course_20230701133.png)
 
 Source: buildingSMART\, 2021
 
@@ -3005,7 +3005,7 @@ _"The _  _bSI_  _ Award is a recognition of the development in applying _  _open
 
 Dashuang Li\, China Academy of Railway Sciences Corporation Ltd
 
-![](img%5CiBIMD_Course_20230701134.png)
+![](img/iBIMD_Course_20230701134.png)
 
 Source: buildingSMART\, 2021
 
@@ -3023,7 +3023,7 @@ _"From the outset\, the project teams worked towards achieving the requirements 
 
 Karl Fitzpatrick\, Auckland International Airport Ltd
 
-![](img%5CiBIMD_Course_20230701135.png)
+![](img/iBIMD_Course_20230701135.png)
 
 Source: buildingSMART\, 2021
 
@@ -3041,7 +3041,7 @@ _"Model\-based performance gap analysis brings the simulated\, designed world to
 
 Werner Fehlmann\, Siemens Schweiz AG
 
-![](img%5CiBIMD_Course_20230701136.png)
+![](img/iBIMD_Course_20230701136.png)
 
 Source: buildingSMART\, 2021
 
@@ -3087,7 +3087,7 @@ Collaborative approach or find mistake in others’ models
 
 # BIM Execution Plan
 
-![](img%5CiBIMD_Course_20230701137.jpg)
+![](img/iBIMD_Course_20230701137.jpg)
 
 Concepts
 
@@ -3118,7 +3118,7 @@ This chapter aims to equip you with the knowledge and skills required to impleme
 
 The detailed plan for the execution of a construction project using the BIM methodology\. The BEP is a strategy that defines how the project team will work with BIM throughout the project lifecycle\, from conception through construction and operation of the building\. Explain how the information management aspects of the appointment will be carried out by the delivery team\.
 
-![](img%5CiBIMD_Course_20230701138.jpg)
+![](img/iBIMD_Course_20230701138.jpg)
 
 __BIM Execution Plan \(BEP\) __
 
@@ -3203,7 +3203,7 @@ Information model delivery
 
 Project close\-out
 
-![](img%5CiBIMD_Course_20230701139.png)
+![](img/iBIMD_Course_20230701139.png)
 
 __Workflow – ISO 19650\-2__
 
@@ -3211,7 +3211,7 @@ Source: ISO19650\-2
 
 # Information management during the delivery phase of assets
 
-![](img%5CiBIMD_Course_20230701140.png)
+![](img/iBIMD_Course_20230701140.png)
 
 __Workflow – ISO 19650\-2__
 
@@ -3249,7 +3249,7 @@ The project's information protocol information model progressed by subsequent de
 
 __Workflow – ISO 19650__
 
-![](img%5CiBIMD_Course_20230701141.png)
+![](img/iBIMD_Course_20230701141.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3272,7 +3272,7 @@ Establish tender response requirements and evaluation criteria compile invitatio
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701142.png)
+![](img/iBIMD_Course_20230701142.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3310,7 +3310,7 @@ Compile the delivery team's tender response
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701143.png)
+![](img/iBIMD_Course_20230701143.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3349,7 +3349,7 @@ Complete appointed party's appointment documents
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701144.png)
+![](img/iBIMD_Course_20230701144.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3381,7 +3381,7 @@ Test the project’s information production methods and procedures
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701145.png)
+![](img/iBIMD_Course_20230701145.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3419,7 +3419,7 @@ Information model review
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701146.png)
+![](img/iBIMD_Course_20230701146.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3457,7 +3457,7 @@ Review and accept the information model
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701147.png)
+![](img/iBIMD_Course_20230701147.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3493,7 +3493,7 @@ Compile lessons learned for future projects
 
 __Workflow – ISO 19650\-2__
 
-![](img%5CiBIMD_Course_20230701148.png)
+![](img/iBIMD_Course_20230701148.png)
 
 Source: Adapted from ISO19650\-2
 
@@ -3724,7 +3724,7 @@ This approach requires early and intense collaboration from all parties involved
 
 Is a specific site that contains all information about a project\. Define the requirements\, monitor their progress\, validate data inputs\, and record all team members' activities\. In addition\, it serves as the central repository of data required to fulfill the information\-sharing function of BIM\.
 
-![](img%5CiBIMD_Course_20230701149.png)
+![](img/iBIMD_Course_20230701149.png)
 
 __Common Data Environment \(CDE\)__
 
@@ -3771,25 +3771,25 @@ __BIM platform / Tools__
 
 # Many Different Platforms and Tools
 
-![](img%5CiBIMD_Course_20230701150.png)
+![](img/iBIMD_Course_20230701150.png)
 
-![](img%5CiBIMD_Course_20230701151.png)
+![](img/iBIMD_Course_20230701151.png)
 
-![](img%5CiBIMD_Course_20230701152.png)
+![](img/iBIMD_Course_20230701152.png)
 
-![](img%5CiBIMD_Course_20230701153.png)
+![](img/iBIMD_Course_20230701153.png)
 
-![](img%5CiBIMD_Course_20230701154.png)
+![](img/iBIMD_Course_20230701154.png)
 
 __BIM platform / Tools__
 
-![](img%5CiBIMD_Course_20230701155.jpg)
+![](img/iBIMD_Course_20230701155.jpg)
 
-![](img%5CiBIMD_Course_20230701156.png)
+![](img/iBIMD_Course_20230701156.png)
 
-![](img%5CiBIMD_Course_20230701157.jpg)
+![](img/iBIMD_Course_20230701157.jpg)
 
-![](img%5CiBIMD_Course_20230701158.png)
+![](img/iBIMD_Course_20230701158.png)
 
 ---
 
@@ -3820,11 +3820,11 @@ Interoperability: BIM software should support industry-standard file formats (e.
 
 _"Don't put the cart before the horse\."_
 
-![](img%5CiBIMD_Course_20230701159.png)
+![](img/iBIMD_Course_20230701159.png)
 
 __BIM platform / Tools__
 
-![](img%5CiBIMD_Course_20230701160.png)
+![](img/iBIMD_Course_20230701160.png)
 
 __Project Information Needs__
 
@@ -3839,7 +3839,7 @@ Need a standard method for the asset owner and members of the design team to def
 
 Based on this\, we can then assess which platforms and tools might work for the information needs of the project\, asset owner and design team\.
 
-![](img%5CiBIMD_Course_20230701161.png)
+![](img/iBIMD_Course_20230701161.png)
 
 __BIM platform / Tools__
 
@@ -3868,7 +3868,7 @@ An understanding of the current landscape of BIM tools and platforms in the proj
 
 The orchestration of appropriate interoperable platforms and services into a BIM Information Architecture
 
-![](img%5CiBIMD_Course_20230701162.png)
+![](img/iBIMD_Course_20230701162.png)
 
 __BIM platform / Tools__
 
@@ -3895,7 +3895,7 @@ How does the guidance support an asset owner or design team member to make a  _
 
 How does the platform / tool support the user to make or integrate the requested  _change_ ?
 
-![](img%5CiBIMD_Course_20230701163.png)
+![](img/iBIMD_Course_20230701163.png)
 
 __BIM platform / Tools Selection method__
 
@@ -3928,147 +3928,147 @@ __BIM platform / Tools Selection method__
 
 # 2. Who are the users and what does each user need to know from the BIM?
 
-![](img%5CiBIMD_Course_20230701164.png)
+![](img/iBIMD_Course_20230701164.png)
 
-![](img%5CiBIMD_Course_20230701165.png)
+![](img/iBIMD_Course_20230701165.png)
 
-![](img%5CiBIMD_Course_20230701166.png)
+![](img/iBIMD_Course_20230701166.png)
 
-![](img%5CiBIMD_Course_20230701167.png)
+![](img/iBIMD_Course_20230701167.png)
 
 This is more discipline and role specific\, for your project you need to determine the information needs of each stakeholder\.
 
 For this you need to look back on Chapter 02 and the BIM Roles
 
-![](img%5CiBIMD_Course_20230701168.png)
+![](img/iBIMD_Course_20230701168.png)
 
-![](img%5CiBIMD_Course_20230701169.png)
+![](img/iBIMD_Course_20230701169.png)
 
-![](img%5CiBIMD_Course_20230701170.png)
+![](img/iBIMD_Course_20230701170.png)
 
-![](img%5CiBIMD_Course_20230701171.png)
+![](img/iBIMD_Course_20230701171.png)
 
-![](img%5CiBIMD_Course_20230701172.png)
+![](img/iBIMD_Course_20230701172.png)
 
-![](img%5CiBIMD_Course_20230701173.png)
+![](img/iBIMD_Course_20230701173.png)
 
 __BIM platform / Tools Selection method__
 
-![](img%5CiBIMD_Course_20230701174.png)
+![](img/iBIMD_Course_20230701174.png)
 
-![](img%5CiBIMD_Course_20230701175.png)
+![](img/iBIMD_Course_20230701175.png)
 
-![](img%5CiBIMD_Course_20230701176.png)
+![](img/iBIMD_Course_20230701176.png)
 
-![](img%5CiBIMD_Course_20230701177.png)
+![](img/iBIMD_Course_20230701177.png)
 
-![](img%5CiBIMD_Course_20230701178.png)
+![](img/iBIMD_Course_20230701178.png)
 
-![](img%5CiBIMD_Course_20230701179.png)
+![](img/iBIMD_Course_20230701179.png)
 
-![](img%5CiBIMD_Course_20230701180.png)
+![](img/iBIMD_Course_20230701180.png)
 
-![](img%5CiBIMD_Course_20230701181.png)
+![](img/iBIMD_Course_20230701181.png)
 
-![](img%5CiBIMD_Course_20230701182.png)
+![](img/iBIMD_Course_20230701182.png)
 
-![](img%5CiBIMD_Course_20230701183.png)
+![](img/iBIMD_Course_20230701183.png)
 
-![](img%5CiBIMD_Course_20230701184.png)
+![](img/iBIMD_Course_20230701184.png)
 
-![](img%5CiBIMD_Course_20230701185.png)
+![](img/iBIMD_Course_20230701185.png)
 
-![](img%5CiBIMD_Course_20230701186.png)
+![](img/iBIMD_Course_20230701186.png)
 
-![](img%5CiBIMD_Course_20230701187.png)
+![](img/iBIMD_Course_20230701187.png)
 
-![](img%5CiBIMD_Course_20230701188.png)
+![](img/iBIMD_Course_20230701188.png)
 
-![](img%5CiBIMD_Course_20230701189.png)
+![](img/iBIMD_Course_20230701189.png)
 
-![](img%5CiBIMD_Course_20230701190.png)
+![](img/iBIMD_Course_20230701190.png)
 
-![](img%5CiBIMD_Course_20230701191.png)
+![](img/iBIMD_Course_20230701191.png)
 
-![](img%5CiBIMD_Course_20230701192.png)
+![](img/iBIMD_Course_20230701192.png)
 
-![](img%5CiBIMD_Course_20230701193.png)
+![](img/iBIMD_Course_20230701193.png)
 
 # 3. What are the data inputs and information requirements of the model?
 
-![](img%5CiBIMD_Course_20230701194.png)
+![](img/iBIMD_Course_20230701194.png)
 
-![](img%5CiBIMD_Course_20230701195.png)
+![](img/iBIMD_Course_20230701195.png)
 
-![](img%5CiBIMD_Course_20230701196.png)
+![](img/iBIMD_Course_20230701196.png)
 
-![](img%5CiBIMD_Course_20230701197.png)
+![](img/iBIMD_Course_20230701197.png)
 
 Based on the previous 2 stages\, what does this mean for your model\(s\)? Will you have a model for each stakeholder? Will you have a single federated model? What does each discipline need? This should also consider where these models should be stored\.
 
 This should be defined in the BEP from Chapter 04
 
-![](img%5CiBIMD_Course_20230701198.png)
+![](img/iBIMD_Course_20230701198.png)
 
-![](img%5CiBIMD_Course_20230701199.png)
+![](img/iBIMD_Course_20230701199.png)
 
-![](img%5CiBIMD_Course_20230701200.png)
+![](img/iBIMD_Course_20230701200.png)
 
-![](img%5CiBIMD_Course_20230701201.png)
+![](img/iBIMD_Course_20230701201.png)
 
-![](img%5CiBIMD_Course_20230701202.png)
+![](img/iBIMD_Course_20230701202.png)
 
-![](img%5CiBIMD_Course_20230701203.png)
+![](img/iBIMD_Course_20230701203.png)
 
 __BIM platform / Tools Selection method__
 
-![](img%5CiBIMD_Course_20230701204.png)
+![](img/iBIMD_Course_20230701204.png)
 
-![](img%5CiBIMD_Course_20230701205.png)
+![](img/iBIMD_Course_20230701205.png)
 
-![](img%5CiBIMD_Course_20230701206.png)
+![](img/iBIMD_Course_20230701206.png)
 
-![](img%5CiBIMD_Course_20230701207.png)
+![](img/iBIMD_Course_20230701207.png)
 
-![](img%5CiBIMD_Course_20230701208.png)
+![](img/iBIMD_Course_20230701208.png)
 
-![](img%5CiBIMD_Course_20230701209.png)
+![](img/iBIMD_Course_20230701209.png)
 
-![](img%5CiBIMD_Course_20230701210.png)
+![](img/iBIMD_Course_20230701210.png)
 
-![](img%5CiBIMD_Course_20230701211.png)
+![](img/iBIMD_Course_20230701211.png)
 
-![](img%5CiBIMD_Course_20230701212.png)
+![](img/iBIMD_Course_20230701212.png)
 
-![](img%5CiBIMD_Course_20230701213.png)
+![](img/iBIMD_Course_20230701213.png)
 
-![](img%5CiBIMD_Course_20230701214.png)
+![](img/iBIMD_Course_20230701214.png)
 
-![](img%5CiBIMD_Course_20230701215.png)
+![](img/iBIMD_Course_20230701215.png)
 
-![](img%5CiBIMD_Course_20230701216.png)
+![](img/iBIMD_Course_20230701216.png)
 
-![](img%5CiBIMD_Course_20230701217.png)
+![](img/iBIMD_Course_20230701217.png)
 
-![](img%5CiBIMD_Course_20230701218.png)
+![](img/iBIMD_Course_20230701218.png)
 
-![](img%5CiBIMD_Course_20230701219.png)
+![](img/iBIMD_Course_20230701219.png)
 
-![](img%5CiBIMD_Course_20230701220.png)
+![](img/iBIMD_Course_20230701220.png)
 
-![](img%5CiBIMD_Course_20230701221.png)
+![](img/iBIMD_Course_20230701221.png)
 
-![](img%5CiBIMD_Course_20230701222.png)
+![](img/iBIMD_Course_20230701222.png)
 
-![](img%5CiBIMD_Course_20230701223.png)
+![](img/iBIMD_Course_20230701223.png)
 
-![](img%5CiBIMD_Course_20230701224.png)
+![](img/iBIMD_Course_20230701224.png)
 
-![](img%5CiBIMD_Course_20230701225.png)
+![](img/iBIMD_Course_20230701225.png)
 
-![](img%5CiBIMD_Course_20230701226.png)
+![](img/iBIMD_Course_20230701226.png)
 
-![](img%5CiBIMD_Course_20230701227.png)
+![](img/iBIMD_Course_20230701227.png)
 
 # 4. What analysis needs to be performed on the model(s)?
 
@@ -4151,7 +4151,7 @@ Stimulate competition in interoperability
 
 __Interoperability__
 
-![](img%5CiBIMD_Course_20230701228.png)
+![](img/iBIMD_Course_20230701228.png)
 
 __interoperability__
 
@@ -4165,7 +4165,7 @@ Source: buildingSMART\, 2020
   * Adopted as CEN and ISO standards
   * IFC is used as an "exchange format" between application typical as Express files\.
 
-![](img%5CiBIMD_Course_20230701229.png)
+![](img/iBIMD_Course_20230701229.png)
 
 __Interoperability Standards__
 
@@ -4193,27 +4193,27 @@ Control
 
 # IFC format
 
-![](img%5CiBIMD_Course_20230701230.jpg)
+![](img/iBIMD_Course_20230701230.jpg)
 
-![](img%5CiBIMD_Course_20230701231.jpg)
+![](img/iBIMD_Course_20230701231.jpg)
 
-![](img%5CiBIMD_Course_20230701232.jpg)
+![](img/iBIMD_Course_20230701232.jpg)
 
-![](img%5CiBIMD_Course_20230701233.png)
+![](img/iBIMD_Course_20230701233.png)
 
-![](img%5CiBIMD_Course_20230701234.png)
+![](img/iBIMD_Course_20230701234.png)
 
 __BIM platform / Tools__
 
-![](img%5CiBIMD_Course_20230701235.png)
+![](img/iBIMD_Course_20230701235.png)
 
-![](img%5CiBIMD_Course_20230701236.png)
+![](img/iBIMD_Course_20230701236.png)
 
-![](img%5CiBIMD_Course_20230701237.png)
+![](img/iBIMD_Course_20230701237.png)
 
-![](img%5CiBIMD_Course_20230701238.jpg)
+![](img/iBIMD_Course_20230701238.jpg)
 
-![](img%5CiBIMD_Course_20230701239.png)
+![](img/iBIMD_Course_20230701239.png)
 
 # BSDD
 
@@ -4232,9 +4232,9 @@ The ISO 16739 standard provides a framework for the exchange of digital informat
 
 # IDS and BCF
 
-![](img%5CiBIMD_Course_20230701240.png)
+![](img/iBIMD_Course_20230701240.png)
 
-![](img%5CiBIMD_Course_20230701241.png)
+![](img/iBIMD_Course_20230701241.png)
 
 __Interoperability Standards__
 
@@ -4244,7 +4244,7 @@ __Interoperability Standards__
 
 <span style="color:#3A3A3A">IDS </span>  <span style="color:#3A3A3A"> _cannot _ </span>  <span style="color:#3A3A3A">be used to define design requirements or so called ‘rules’\.</span>
 
-![](img%5CiBIMD_Course_20230701242.png)
+![](img/iBIMD_Course_20230701242.png)
 
 __Interoperability Standards__
 
@@ -4280,7 +4280,7 @@ Referenced from https://www.buildingsmart.org/what-is-information-delivery-spec
 
 __BIM Collaboration Format__
 
-![](img%5CiBIMD_Course_20230701243.png)
+![](img/iBIMD_Course_20230701243.png)
 
 __Interoperability Standards__
 
@@ -4297,7 +4297,7 @@ __BIM platform / Tools__
 
 # Parametric modelling / BIM Objects
 
-![](img%5CiBIMD_Course_20230701244.jpg)
+![](img/iBIMD_Course_20230701244.jpg)
 
 2D and 3D modelling
 
@@ -4318,7 +4318,7 @@ We will also discuss about the importance of objects and classes in BIM since th
 We will also cover the use of templates to expedite the modelling process and ensure consistency across the project. Another key aspect of BIM tools and platforms is Interoperability. We will explore how different tools can work together seamlessly to create a comprehensive BIM model. We will also explore in further details the IFC format, as an open standard for exchanging data between different software applications used in the AEC industry.
 
 
-![](img%5CiBIMD_Course_20230701245.png)
+![](img/iBIMD_Course_20230701245.png)
 
 __2D and 3D modelling__
 
@@ -4358,7 +4358,7 @@ Objects creation and management
 
 Templates
 
-![](img%5CiBIMD_Course_20230701246.jpg)
+![](img/iBIMD_Course_20230701246.jpg)
 
 __Parametric modelling / BIM Objects__
 
@@ -4377,7 +4377,7 @@ Pencil and Paper: In the past, 2D drawings were created by hand using pencils, r
 Drafting Machines: In the early 20th century, drafting machines were introduced. These machines made it easier to draw straight lines and angles, but the drawings were still created by hand.
 
 
-![](img%5CiBIMD_Course_20230701247.jpg)
+![](img/iBIMD_Course_20230701247.jpg)
 
 __2D and 3D modelling__
 
@@ -4402,7 +4402,7 @@ Overall, the evolution from 2D hand drawing to 2D CAD has greatly improved the e
 Introduction of 3D CAD: The introduction of 3D CAD software allowed designers to create virtual models of objects and structures in three dimensions. This made it easier to visualize and test designs before they were built, reducing the risk of errors and saving time and resources. In the 1980s, the first 3D CAD software was developed. These programs allowed designers to create three-dimensional models of objects and structures, rather than just two-dimensional drawings.
 
 
-![](img%5CiBIMD_Course_20230701248.jpg)
+![](img/iBIMD_Course_20230701248.jpg)
 
 __2D and 3D modelling__
 
@@ -4426,7 +4426,7 @@ Parametric Modeling: Parametric modeling allows designers to create objects that
 Assembly Modeling: Assembly modeling allows designers to create complex structures and systems by assembling individual components. This technique is particularly useful in mechanical engineering and product design, where designers need to create products with moving parts.
 
 
-![](img%5CiBIMD_Course_20230701249.png)
+![](img/iBIMD_Course_20230701249.png)
 
 __2D and 3D modelling__
 
@@ -4440,7 +4440,7 @@ Templates
 
 __Parametric modelling / BIM Objects__
 
-![](img%5CiBIMD_Course_20230701250.jpg)
+![](img/iBIMD_Course_20230701250.jpg)
 
 ---
 
@@ -4468,7 +4468,7 @@ Objects creation and management
 
 Templates
 
-![](img%5CiBIMD_Course_20230701251.jpg)
+![](img/iBIMD_Course_20230701251.jpg)
 
 __Parametric modelling / BIM Objects__
 
@@ -4484,7 +4484,7 @@ Batch export: BIM tools allow users to export multiple 2D drawings at once, eith
 Overall, the ability to automatically generate 2D drawings from the 3D model is a powerful feature of BIM tools. It saves time and effort, reduces errors, and ensures that the documentation is always accurate and up-to-date. By using BIM tools to generate 2D drawings, designers and engineers can focus on the creative and technical aspects of the project, rather than on manual drafting tasks.
 
 
-![](img%5CiBIMD_Course_20230701252.jpg)
+![](img/iBIMD_Course_20230701252.jpg)
 
 __2D and 3D modelling__
 
@@ -4498,7 +4498,7 @@ Templates
 
 __Parametric modelling / BIM Objects__
 
-![](img%5CiBIMD_Course_20230701253.jpg)
+![](img/iBIMD_Course_20230701253.jpg)
 
 ---
 
@@ -4512,7 +4512,7 @@ Collaboration: BIM tools allow for collaboration between different stakeholders,
 Overall, the ability to use the 3D model for various studies is a powerful feature of BIM tools. By analyzing the building's structure, energy consumption, lighting, and other factors, designers and engineers can optimize the building's performance and ensure that it meets the necessary standards and regulations. This can lead to a more sustainable, efficient, and cost-effective building.
 
 
-![](img%5CiBIMD_Course_20230701254.png)
+![](img/iBIMD_Course_20230701254.png)
 
 __2D and 3D modelling__
 
@@ -4526,7 +4526,7 @@ Templates
 
 __Parametric modelling / BIM Objects__
 
-![](img%5CiBIMD_Course_20230701255.png)
+![](img/iBIMD_Course_20230701255.png)
 
 ---
 
@@ -4548,7 +4548,7 @@ Objects creation and management
 
 Templates
 
-![](img%5CiBIMD_Course_20230701256.png)
+![](img/iBIMD_Course_20230701256.png)
 
 __Parametric modelling / BIM Objects__
 
@@ -4564,7 +4564,7 @@ Workflow optimization: Automatic connection can also help to optimize the design
 Overall, automatic connection is a powerful feature of 3D modeling tools that are integrated into the BIM workflow. By linking the various elements of the building model with their associated metadata, BIM tools can ensure accuracy and consistency, facilitate collaboration and data management, and optimize the design workflow. This can help to reduce errors, increase efficiency, and ultimately lead to a more successful building project.
 
 
-![](img%5CiBIMD_Course_20230701257.jpg)
+![](img/iBIMD_Course_20230701257.jpg)
 
 __2D and 3D modelling__
 
@@ -4578,9 +4578,9 @@ Templates
 
 __Parametric modelling / BIM Objects__
 
-![](img%5CiBIMD_Course_20230701258.jpg)
+![](img/iBIMD_Course_20230701258.jpg)
 
-![](img%5CiBIMD_Course_20230701259.jpg)
+![](img/iBIMD_Course_20230701259.jpg)
 
 ---
 
@@ -4593,7 +4593,7 @@ Coordination: Reinforcement modeling can also help to improve coordination betwe
 Overall, automatic reinforcement placement is a powerful feature of 3D modeling tools that are integrated into the BIM workflow. By automating the placement of reinforcement bars, BIM tools can improve accuracy, efficiency, and optimization in the design process, while also improving coordination between different stakeholders. This can help to ensure the structural integrity of the building, reduce errors, and ultimately lead to a more successful building project.
 
 
-![](img%5CiBIMD_Course_20230701260.jpg)
+![](img/iBIMD_Course_20230701260.jpg)
 
 __2D and 3D modelling__
 
@@ -4629,13 +4629,13 @@ Objects creation and management
 
 Templates
 
-![](img%5CiBIMD_Course_20230701261.jpg)
+![](img/iBIMD_Course_20230701261.jpg)
 
 __Parametric modelling / BIM Objects__
 
-![](img%5CiBIMD_Course_20230701262.jpg)
+![](img/iBIMD_Course_20230701262.jpg)
 
-![](img%5CiBIMD_Course_20230701263.jpg)
+![](img/iBIMD_Course_20230701263.jpg)
 
 ---
 
@@ -4842,7 +4842,7 @@ In summary, templates are a powerful tool for ensuring consistency and efficienc
 
 # Digitalization
 
-![](img%5CiBIMD_Course_20230701264.png)
+![](img/iBIMD_Course_20230701264.png)
 
 Web 3\.0\, Blockchain\, IoT\, AI
 
@@ -4880,7 +4880,7 @@ __Industry revolutions__
 
 The  __four industry revolutions __ have brought about significant changes in the way we live and work\. Each revolution has led to improvements in productivity and efficiency\, as well as significant changes in the labor market and the economy\. As we look ahead\, it is clear that the  __Fourth Industry Revolution __ will continue to transform the way we produce and consume goods and services\, with the potential to bring about significant benefits for society and the economy\.
 
-![](img%5CiBIMD_Course_20230701265.png)
+![](img/iBIMD_Course_20230701265.png)
 
 ---
 
@@ -4928,7 +4928,7 @@ With each revolution, productivity and efficiency have increased, and the labor 
 With the potential to have a substantial positive impact on society and the economy, it is obvious that the Fourth Industrial Revolution will continue to change how we manufacture and use goods and services.
 
 
-![](img%5CiBIMD_Course_20230701266.png)
+![](img/iBIMD_Course_20230701266.png)
 
 The web has come a long way since its early days as a platform for sharing text\-based documents\. It has evolved into a sophisticated ecosystem of technologies and applications that have transformed the way we live\, work\, and communicate\. As we look ahead\, it is clear that the web will continue to evolve and adapt to meet the needs of an ever\-changing digital landscape\.
 
@@ -4961,7 +4961,7 @@ The way we live, work, and communicate has changed as a result of its developmen
 Looking ahead, it is certain that the web will continue to develop and adapt in order to satisfy the demands of a constantly shifting digital environment.
 
 
-![](img%5CiBIMD_Course_20230701267.png)
+![](img/iBIMD_Course_20230701267.png)
 
 Source: Broadband Search\, 2023
 
@@ -4994,7 +4994,7 @@ The way we live, work, and communicate has changed as a result of its developmen
 Looking ahead, it is certain that the web will continue to develop and adapt in order to satisfy the demands of a constantly shifting digital environment.
 
 
-![](img%5CiBIMD_Course_20230701268.png)
+![](img/iBIMD_Course_20230701268.png)
 
 __Blockchain technology__
 
@@ -5024,7 +5024,7 @@ It functions by combining hashing, chaining, consensus, nodes, and smart contrac
 
 
 
-![](img%5CiBIMD_Course_20230701269.png)
+![](img/iBIMD_Course_20230701269.png)
 
 The evolution of GSM is a testament to the power of innovation and collaboration in the telecom industry\. From its humble beginnings as a joint project between European organizations to its current status as a global standard\, GSM has played a pivotal role in shaping the mobile landscape and connecting people and devices around the world\.
 
@@ -5066,7 +5066,7 @@ We may anticipate more advancement and innovation in this area as we look to the
 
 
 
-![](img%5CiBIMD_Course_20230701270.png)
+![](img/iBIMD_Course_20230701270.png)
 
 The use of FEA software tools provides a user\-friendly interface for designers and engineers to input their designs and generate accurate simulations\, helping to streamline the design process and ensure the success of construction projects\.
 
@@ -5164,7 +5164,7 @@ RPA __ __ is a promising technology that has the potential to revolutionize the 
 
 In AEC\, RPA can be used to automate a variety of tasks and processes\, including data entry\, document management\, project scheduling\, and communication\.
 
-![](img%5CiBIMD_Course_20230701271.png)
+![](img/iBIMD_Course_20230701271.png)
 
 ---
 
@@ -5267,7 +5267,7 @@ Governments may also offer financial assistance or incentives to promote IoT ado
 
 # AI / ML
 
-![](img%5CiBIMD_Course_20230701272.png)
+![](img/iBIMD_Course_20230701272.png)
 
 AI is transforming the AECO industry by providing innovative solutions for complex challenges\. AI is being used to automate repetitive tasks\, analyze BIM data\, predict maintenance needs\, enhance safety\, and optimize building design and performance\. As AI technology continues to evolve\, it is expected to play an increasingly important role in shaping the future of the AECO industry\.
 
@@ -5315,17 +5315,17 @@ Park\, J\. W\.\, & Kim\, J\. H\. \(2019\)\. Energy performance evaluation of bui
 
 10\.1016/j\.autcon\.2007\.05\.005
 
-![](img%5CiBIMD_Course_20230701273.png)
+![](img/iBIMD_Course_20230701273.png)
 
-![](img%5CiBIMD_Course_20230701274.png)
+![](img/iBIMD_Course_20230701274.png)
 
 10\.1108/JFM\-09\-2015\-0029
 
-![](img%5CiBIMD_Course_20230701275.png)
+![](img/iBIMD_Course_20230701275.png)
 
 10\.1016/j\.autcon\.2008\.10\.003
 
-![](img%5CiBIMD_Course_20230701276.png)
+![](img/iBIMD_Course_20230701276.png)
 
 10\.3390/su11133659
 
@@ -6006,7 +6006,7 @@ McGinley\, P\. et al\. "Supporting the Transition to OpenBIM\." EC3 2023\. Acce
 
 # Course evaluation
 
-![](img%5CiBIMD_Course_20230701277.png)
+![](img/iBIMD_Course_20230701277.png)
 
 <span style="color:#000000"> __Congratulations on completing the course\!__ </span>
 
