@@ -4,7 +4,7 @@
 
 # The project
 
-![](img/img%5CiBIMD_Course_202307011.png)
+![](img/iBIMD_Course_202307011.png)
 
 The consortium
 
