@@ -1,4 +1,4 @@
-# Introduction to Building Information Modeling and Digitalization
+# Introduction to Building Information Modeling and Digitalization
 
 ![](img/iBIMD_Course_202307010.png)
 
